@@ -1,6 +1,6 @@
-[submodule "attendr-frontend"]
-	path = attendr-frontend
-	url = https://github.com/attendr/attendr-frontend.git
 [submodule "attendr-backend"]
 	path = attendr-backend
 	url = https://github.com/attendr/attendr-backend.git
+[submodule "attendr-app"]
+	path = attendr-app
+	url = https://github.com/attendr/attendr-app.git
